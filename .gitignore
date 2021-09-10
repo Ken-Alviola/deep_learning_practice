@@ -2,3 +2,7 @@ dogs-vs-cats/
 cats_and_dogs_small/
 *.h5
 *.jpg
+aclImdb/
+glove.6B.zip.download/
+glove.6B.zip
+glove.6B/
